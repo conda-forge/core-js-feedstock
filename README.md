@@ -15,12 +15,15 @@ Modular standard library for JavaScript
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/core-js-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/core-js-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/core-js-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/core-js-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/core-js/badges/version.svg)](https://anaconda.org/conda-forge/core-js)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/core-js/badges/downloads.svg)](https://anaconda.org/conda-forge/core-js)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-core--js-green.svg)](https://anaconda.org/conda-forge/core-js) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/core-js.svg)](https://anaconda.org/conda-forge/core-js) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/core-js.svg)](https://anaconda.org/conda-forge/core-js) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/core-js.svg)](https://anaconda.org/conda-forge/core-js) |
 
 Installing core-js
 ==================
