@@ -1,7 +1,3 @@
-<!--
-# -*- mode: jinja -*-
--->
-
 About core-js
 =============
 
@@ -19,8 +15,17 @@ Modular standard library for JavaScript
 Current build status
 ====================
 
-All platforms:
-[![noarch](https://img.shields.io/circleci/project/github/conda-forge/core-js-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/core-js-feedstock)
+
+<table><tr>
+    
+    <td>All platforms:</td>
+    <td>
+      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=5528&branchName=master">
+        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/core-js-feedstock?branchName=master">
+      </a>
+    </td>
+  </tr>
+</table>
 
 Current release info
 ====================
