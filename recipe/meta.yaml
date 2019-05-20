@@ -1,6 +1,6 @@
 {% set name = "core-js" %}
-{% set version = "2.6.5" %}
-{% set sha256 = "f2130f08ee4eb0a03125a46dd2d5a910d2a0fe3b10118d53a23ac787c3ea9e88" %}
+{% set version = "3.1.1" %}
+{% set sha256 = "b1498a9b2a4fc220ac324e9c8dcdef2f23f472ec926282ea04bdf95840974cdb" %}
 
 package:
   name: {{ name|lower }}
