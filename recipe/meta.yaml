@@ -38,8 +38,3 @@ about:
     Modular standard library for JavaScript
   doc_url: https://github.com/zloirock/core-js
   dev_url: https://github.com/zloirock/core-js
-
-extra:
-  recipe-maintainers:
-    - cshaley
-    - sannykr
